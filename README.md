@@ -20,8 +20,6 @@ EN: I design and evolve automation frameworks for API, UI, and Mobile, focused o
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-472FCF?style=for-the-badge&logo=appium&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Allure](https://img.shields.io/badge/Allure-FF6A00?style=for-the-badge)
 
@@ -44,19 +42,11 @@ EN: I design and evolve automation frameworks for API, UI, and Mobile, focused o
 
 ---
 
-## Metrics
+## GitHub Activity
 
 <p align="center">
-  <img alt="GitHub stats for GrigoriyZvygintsev (fallback: check profile repositories directly)" src="https://github-readme-stats.vercel.app/api?username=GrigoriyZvygintsev&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img alt="Top languages for GrigoriyZvygintsev (fallback: see language bars in each repository)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrigoriyZvygintsev&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=GrigoriyZvygintsev&theme=tokyonight&hide_border=true" height="170"/>
 </p>
-
-<p align="center">
-  <img alt="GitHub streak for GrigoriyZvygintsev (fallback: activity tab in profile)" src="https://streak-stats.demolab.com?user=GrigoriyZvygintsev&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-Fallback note:
-If a metrics widget is temporarily unavailable, open the repositories above and use GitHub Insights/Contributors as source of truth.
 
 ---
 
