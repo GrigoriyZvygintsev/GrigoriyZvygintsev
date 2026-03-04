@@ -1,4 +1,4 @@
-﻿# Grigory Zvyagintsev | Automation QA Engineer
+# Grigory Zvyagintsev | Automation QA Engineer
 
 <div align="center">
 
